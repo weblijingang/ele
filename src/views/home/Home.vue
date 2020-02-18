@@ -28,9 +28,6 @@
                     .distribution__point 排序
                     .distribution__company 蜂鸟专送
                     .distribution__dis-time {{item.distance}}km | {{item.order_lead_time}}
-        section.star_container
-            svg.grey_fill(v-for="num in 5" :key="num")
-                use(xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#star")
 
 </template>
 
