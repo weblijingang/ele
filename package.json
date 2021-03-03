@@ -49,7 +49,7 @@
     "eslint-plugin-import": "^2.19.1",
     "eslint-plugin-vue": "^5.2.3",
     "husky": "^3.0.9",
-    "pug": "^2.0.4",
+    "pug": "^3.0.1",
     "pug-html-loader": "^1.1.5",
     "pug-plain-loader": "^1.0.0",
     "sass": "^1.23.7",
